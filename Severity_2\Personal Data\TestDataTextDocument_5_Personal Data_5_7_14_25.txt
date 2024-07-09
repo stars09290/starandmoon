@@ -1,7 +1,0 @@
-This is dummy data for Personal Data 
- First & Last Name Kathleen Cruz & email address is  Kathleen.Cruz@GMAIL.COM the Phone Number is 620-232-4552 the passport details are 977784452 The Driver License Number is SC 584155867 The address is 3470 Juwan Lights, Schuppefurt, WI 85841 
-  First & Last Name Sara Diaz & email address is  SaraDiaz@HOTMAIL.COM the Phone Number is 334 492 1787 the passport details are 942426107 The Driver License Number is NJ P9268 63411 68928 The address is 861 Friesen Heights Apt. 306, South Damarisburgh, KY 28804-5137 
-  First & Last Name Susan Russell & email address is  Susan.Russell@GMAIL.COM the Phone Number is 7274836710 the passport details are 560007265 The Driver License Number is VA 881-23-0207 The address is 25268 Ullrich Lodge Apt. 124, West Sharonchester, ND 65785 
-  First & Last Name Carl Wilson & email address is  CarlWilson@HOTMAIL.COM the Phone Number is 6128468500 the passport details are 980290183 The Driver License Number is OK U950403276 The address is 198 Ebert Islands Apt. 888, Adrianamouth, WV 07342-7588 
-  First & Last Name Janice Johnson & email address is  Janice.Johnson@HOTMAIL.COM the Phone Number is 947-978-6089 the passport details are 767760134 The Driver License Number is MN R688630802897 The address is 67554 Wuckert Hills, Rosenbaumfurt, KY 42596 
- 
