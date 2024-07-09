@@ -1,0 +1,7 @@
+This is dummy data for Bank Details - United State 
+ First & Last Name Jose Johnson & email address is  JoseJohnson@HOTMAIL.COM the Phone Number is 5202569847 the bank details are as follows Bank Name Bank of America Bank Account Number account number: 341221544296 Bank Routing Number bankrouting# 105641225
+  First & Last Name Walter Reyes & email address is  Walter.Reyes@GMAIL.COM the Phone Number is 4801242026 the bank details are as follows Bank Name Citi Bank Bank Account Number debit acct number 538650199044 Bank Routing Number aba 129782678
+  First & Last Name Edward Phillips & email address is  Edward_Phillips@GMAIL.COM the Phone Number is 917-128-6761 the bank details are as follows Bank Name Citi Bank Bank Account Number checking account numbers # 755407237096 Bank Routing Number aba # 666185851
+  First & Last Name Vincent Robinson & email address is  VincentRobinson@AOL.COM the Phone Number is 251-627-8837 the bank details are as follows Bank Name Bank of New York Bank Account Number checking account number 274563792492 Bank Routing Number aba# 708403336
+  First & Last Name Amanda Adams & email address is  AmandaAdams@HOTMAIL.COM the Phone Number is 336 983 2354 the bank details are as follows Bank Name Bank of New York Bank Account Number account number # 264261410122 Bank Routing Number aba# 648953797
+ 
