@@ -1,0 +1,3 @@
+The file contains dummy data for United State SSN 
+This is my SSN information & they keyword is social security# & my name is Joshua Hughes 
+ & SSN Number is 494 93 5761

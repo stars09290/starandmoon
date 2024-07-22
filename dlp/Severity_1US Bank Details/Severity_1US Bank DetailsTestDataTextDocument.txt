@@ -1,0 +1,3 @@
+This is dummy data for Bank Details - United State 
+ First & Last Name Rebecca Brooks & email address is  Rebecca.Brooks@HOTMAIL.COM the Phone Number is 330-628-9614 the bank details are as follows Bank Name BNP Paribas Bank Account Number bank acct no. 175380941206 Bank Routing Number routing number: 232779581
+ 
