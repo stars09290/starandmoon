@@ -1,0 +1,51 @@
+The file contains dummy data for Credit Card Number (CCN). The CCN vendors in scope are Visa, Master, American Express, Discover, and Diner Credit Card. 
+Please find my CCN information. The CCN vendor is AMEX & the CCN keyword is card num & my name is Kyle Brown 
+ & CCN is 347296686508744 & the CCV number is 9415 & the expiry date is 9-24
+Please find my CCN information. The CCN vendor is AMEX & the CCN keyword is CC no & my name is Albert Sanders 
+ & CCN is 372730113099198 & the CCV number is 6205 & the expiry date is 6-25
+Please find my CCN information. The CCN vendor is AMEX & the CCN keyword is checkcards & my name is Henry Cruz 
+ & CCN is 373963439602374 & the CCV number is 1532 & the expiry date is 7-22
+Please find my CCN information. The CCN vendor is AMEX & the CCN keyword is cvn & my name is Carol Anderson 
+ & CCN is 371377087297696 & the CCV number is 3306 & the expiry date is 10-21
+Please find my CCN information. The CCN vendor is AMEX & the CCN keyword is debitcard & my name is Jack Mitchell 
+ & CCN is 378353356655578 & the CCV number is 2835 & the expiry date is 3-25
+This is my CC information CC Vendor VISA & they keyword is discovercard & my name is Johnny Walker 
+ & Credit Card Number is 4459737217663967 & the CCV number is 737 & Expiry date is 12-21
+This is my CC information CC Vendor VISA & they keyword is CCS nos & my name is Maria Lee 
+ & Credit Card Number is 4667172061036490 & the CCV number is 471 & Expiry date is 9-24
+This is my CC information CC Vendor VISA & they keyword is check cards & my name is Linda Gray 
+ & Credit Card Number is 4126872638513559 & the CCV number is 783 & Expiry date is 3-23
+This is my CC information CC Vendor VISA & they keyword is CCS= & my name is Michael Garcia 
+ & Credit Card Number is 4928653516252621 & the CCV number is 111 & Expiry date is 7-23
+This is my CC information CC Vendor VISA & they keyword is CC= & my name is Jennifer Brooks 
+ & Credit Card Number is 4984209081076787 & the CCV number is 644 & Expiry date is 3-25
+This is my CC information CC Vendor Master & they keyword is Cards# & my name is Jeremy James 
+ & Credit Card Number is 5345969538124016 & the CCV number is 917 & Expiry date is 10-22
+This is my CC information CC Vendor Master & they keyword is enroute & my name is Doris Sanders 
+ & Credit Card Number is 5518018292179286 & the CCV number is 664 & Expiry date is 10-24
+This is my CC information CC Vendor Master & they keyword is card identification number & my name is Maria Moore 
+ & Credit Card Number is 5392351016716625 & the CCV number is 887 & Expiry date is 1-22
+This is my CC information CC Vendor Master & they keyword is card type & my name is Anna Russell 
+ & Credit Card Number is 5561064026476024 & the CCV number is 505 & Expiry date is 8-23
+This is my CC information CC Vendor Master & they keyword is CC nos & my name is Jack Garcia 
+ & Credit Card Number is 5512127874475412 & the CCV number is 509 & Expiry date is 5-21
+This is my CC information CC Vendor Discover & they keyword is JCB & my name is Daniel Hall 
+ & Credit Card Number is 656020200425341 & the CCV number is 923 & Expiry date is 9-24
+This is my CC information CC Vendor Discover & they keyword is master card & my name is Gabriel Foster 
+ & Credit Card Number is 6481134707469195 & the CCV number is 517 & Expiry date is 8-21
+This is my CC information CC Vendor Discover & they keyword is card holders & my name is Jane James 
+ & Credit Card Number is 6453691120411884 & the CCV number is 918 & Expiry date is 3-25
+This is my CC information CC Vendor Discover & they keyword is discover cards & my name is Stephen Lewis 
+ & Credit Card Number is 6449154826596851 & the CCV number is 850 & Expiry date is 12-21
+This is my CC information CC Vendor Discover & they keyword is atmcards & my name is Timothy Garcia 
+ & Credit Card Number is 6481259162531096 & the CCV number is 296 & Expiry date is 1-21
+This is my CC information CC Vendor Diner Club & they keyword is security code & my name is John Cooper 
+ & Credit Card Number is 30198724097726 & the CCV number is 707 & Expiry date is 7-23
+This is my CC information CC Vendor Diner Club & they keyword is checkcard & my name is Carol Hernandez 
+ & Credit Card Number is 30186785430357 & the CCV number is 530 & Expiry date is 10-24
+This is my CC information CC Vendor Diner Club & they keyword is japanese card bureau & my name is Cheryl Wright 
+ & Credit Card Number is 30120229438825 & the CCV number is 320 & Expiry date is 9-24
+This is my CC information CC Vendor Diner Club & they keyword is bankcard & my name is Bryan Rogers 
+ & Credit Card Number is 30533435607662 & the CCV number is 377 & Expiry date is 4-21
+This is my CC information CC Vendor Diner Club & they keyword is japanese card bureau & my name is Christian White 
+ & Credit Card Number is 30152407084758 & the CCV number is 176 & Expiry date is 8-22

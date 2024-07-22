@@ -1,0 +1,11 @@
+The file contains dummy data for United State SSN 
+This is my SSN information & they keyword is social security no & my name is Jesse Perry 
+ & SSN Number is 430-20-6287
+This is my SSN information & they keyword is social numbers & my name is Eric Foster 
+ & SSN Number is 501816049
+This is my SSN information & they keyword is ssns & my name is Heather Carter 
+ & SSN Number is 335-78-8583
+This is my SSN information & they keyword is social security num & my name is Gary James 
+ & SSN Number is 392-35-3996
+This is my SSN information & they keyword is social security no & my name is Jason White 
+ & SSN Number is 847656293

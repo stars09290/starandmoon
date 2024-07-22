@@ -1,0 +1,201 @@
+The file contains dummy data for United State SSN 
+This is my SSN information & they keyword is social security number & my name is Johnny Barnes 
+ & SSN Number is 437-91-8131
+This is my SSN information & they keyword is social insurance num & my name is Terry Wright 
+ & SSN Number is 468128974
+This is my SSN information & they keyword is social security no & my name is Susan Wood 
+ & SSN Number is 106531726
+This is my SSN information & they keyword is social sec & my name is Brittany Powell 
+ & SSN Number is 712-42-5852
+This is my SSN information & they keyword is social security nos & my name is Jean Jenkins 
+ & SSN Number is 506524022
+This is my SSN information & they keyword is social insurance num & my name is Austin Collins 
+ & SSN Number is 317-32-5535
+This is my SSN information & they keyword is ssn# & my name is Edward Lee 
+ & SSN Number is 101 23 3953
+This is my SSN information & they keyword is social num & my name is Jacob Smith 
+ & SSN Number is 470 64 5898
+This is my SSN information & they keyword is social security# & my name is Bradley Myers 
+ & SSN Number is 393-76-9484
+This is my SSN information & they keyword is social numbers & my name is Robert Collins 
+ & SSN Number is 802 89 5964
+This is my SSN information & they keyword is social security no & my name is Janet Rivera 
+ & SSN Number is 235 15 2536
+This is my SSN information & they keyword is social security nos & my name is Emily Bailey 
+ & SSN Number is 173-56-8722
+This is my SSN information & they keyword is social sec & my name is Anthony Gray 
+ & SSN Number is 801342120
+This is my SSN information & they keyword is ssns & my name is Susan Ross 
+ & SSN Number is 242902583
+This is my SSN information & they keyword is ssn# & my name is Nancy Lopez 
+ & SSN Number is 263-37-8507
+This is my SSN information & they keyword is ssn# & my name is Gary Roberts 
+ & SSN Number is 594733028
+This is my SSN information & they keyword is social security nos & my name is Brenda Ward 
+ & SSN Number is 308 19 2814
+This is my SSN information & they keyword is social numbers & my name is Joe Gray 
+ & SSN Number is 695896673
+This is my SSN information & they keyword is social numbers & my name is Scott Nelson 
+ & SSN Number is 418 24 7157
+This is my SSN information & they keyword is social num & my name is Jessica Ward 
+ & SSN Number is 567 15 1260
+This is my SSN information & they keyword is ssn & my name is Gerald James 
+ & SSN Number is 588 49 6650
+This is my SSN information & they keyword is ssns & my name is Martha Watson 
+ & SSN Number is 378-43-9393
+This is my SSN information & they keyword is social numbers & my name is Andrew Martin 
+ & SSN Number is 644847897
+This is my SSN information & they keyword is social security number & my name is Arthur Campbell 
+ & SSN Number is 400 81 1527
+This is my SSN information & they keyword is social sec & my name is John Sanders 
+ & SSN Number is 855-16-3214
+This is my SSN information & they keyword is social security# & my name is Mary Davis 
+ & SSN Number is 563987143
+This is my SSN information & they keyword is social nos & my name is Noah Carter 
+ & SSN Number is 392-73-3894
+This is my SSN information & they keyword is social security no & my name is Victoria Garcia 
+ & SSN Number is 483 29 7993
+This is my SSN information & they keyword is social security Numbers & my name is Patricia Carter 
+ & SSN Number is 226 81 1780
+This is my SSN information & they keyword is social numbers & my name is Justin Johnson 
+ & SSN Number is 821-28-7760
+This is my SSN information & they keyword is ssn & my name is Ann Adams 
+ & SSN Number is 716-15-6389
+This is my SSN information & they keyword is social nos & my name is Laura Richardson 
+ & SSN Number is 610598796
+This is my SSN information & they keyword is soc sec & my name is Pamela Butler 
+ & SSN Number is 859-29-9051
+This is my SSN information & they keyword is ssns & my name is Teresa Young 
+ & SSN Number is 258564842
+This is my SSN information & they keyword is ssn & my name is Melissa Allen 
+ & SSN Number is 469 32 2752
+This is my SSN information & they keyword is social numbers & my name is Mary King 
+ & SSN Number is 210 22 3992
+This is my SSN information & they keyword is ssn# & my name is Eugene Hernandez 
+ & SSN Number is 414-87-4365
+This is my SSN information & they keyword is social num & my name is Louis Adams 
+ & SSN Number is 719 95 2989
+This is my SSN information & they keyword is social number & my name is Laura Reed 
+ & SSN Number is 242 36 8127
+This is my SSN information & they keyword is social no & my name is Joshua Miller 
+ & SSN Number is 337184171
+This is my SSN information & they keyword is social security nos & my name is Jean Brown 
+ & SSN Number is 745 75 8117
+This is my SSN information & they keyword is ssn & my name is Marilyn Parker 
+ & SSN Number is 810902123
+This is my SSN information & they keyword is social sec & my name is Robert Gomez 
+ & SSN Number is 555665874
+This is my SSN information & they keyword is social nos & my name is Randy Morgan 
+ & SSN Number is 246-33-4104
+This is my SSN information & they keyword is social numbers & my name is Sharon Sanchez 
+ & SSN Number is 133892963
+This is my SSN information & they keyword is social nos & my name is Paul Wood 
+ & SSN Number is 384-99-4643
+This is my SSN information & they keyword is social no & my name is Daniel Hall 
+ & SSN Number is 200 46 2022
+This is my SSN information & they keyword is soc sec & my name is Heather Martinez 
+ & SSN Number is 132 26 7536
+This is my SSN information & they keyword is social nos & my name is Janet Anderson 
+ & SSN Number is 895506548
+This is my SSN information & they keyword is social security# & my name is Carl Murphy 
+ & SSN Number is 216 95 4803
+This is my SSN information & they keyword is social numbers & my name is Alexis Diaz 
+ & SSN Number is 707-89-3006
+This is my SSN information & they keyword is ssns & my name is Robert Harris 
+ & SSN Number is 863473854
+This is my SSN information & they keyword is social num & my name is Joe Barnes 
+ & SSN Number is 782901744
+This is my SSN information & they keyword is social security number & my name is James Gomez 
+ & SSN Number is 548 96 4035
+This is my SSN information & they keyword is social sec & my name is Dylan Kelly 
+ & SSN Number is 553-25-1488
+This is my SSN information & they keyword is ssns & my name is Nancy Gonzalez 
+ & SSN Number is 456201775
+This is my SSN information & they keyword is ssn & my name is Matthew Hughes 
+ & SSN Number is 570468858
+This is my SSN information & they keyword is social security number & my name is Jose Cruz 
+ & SSN Number is 764-38-4529
+This is my SSN information & they keyword is social no & my name is Roy Smith 
+ & SSN Number is 331739247
+This is my SSN information & they keyword is social security no & my name is Anna Gonzalez 
+ & SSN Number is 283197792
+This is my SSN information & they keyword is ssn# & my name is Emily Ortiz 
+ & SSN Number is 547262268
+This is my SSN information & they keyword is ssn# & my name is Jerry Cox 
+ & SSN Number is 135731518
+This is my SSN information & they keyword is social no & my name is Benjamin Williams 
+ & SSN Number is 746467158
+This is my SSN information & they keyword is social security number & my name is George Howard 
+ & SSN Number is 252469451
+This is my SSN information & they keyword is ss# & my name is Joe Phillips 
+ & SSN Number is 222-60-5391
+This is my SSN information & they keyword is social insurance num & my name is Jacqueline Cox 
+ & SSN Number is 896 26 4407
+This is my SSN information & they keyword is ssn# & my name is George Bailey 
+ & SSN Number is 779-17-7900
+This is my SSN information & they keyword is social no & my name is Maria Walker 
+ & SSN Number is 260 30 4455
+This is my SSN information & they keyword is social num & my name is Lawrence Sanchez 
+ & SSN Number is 513493885
+This is my SSN information & they keyword is social security# & my name is Anna Morgan 
+ & SSN Number is 624719368
+This is my SSN information & they keyword is social nos & my name is Kelly Evans 
+ & SSN Number is 729 55 7516
+This is my SSN information & they keyword is social security# & my name is Dorothy Robinson 
+ & SSN Number is 351134018
+This is my SSN information & they keyword is ssns & my name is Randy Clark 
+ & SSN Number is 641799425
+This is my SSN information & they keyword is ssns & my name is Ronald Stewart 
+ & SSN Number is 836303990
+This is my SSN information & they keyword is social security no & my name is Brenda Rivera 
+ & SSN Number is 321-48-4796
+This is my SSN information & they keyword is ssn# & my name is Betty Rogers 
+ & SSN Number is 257424807
+This is my SSN information & they keyword is social security# & my name is Martha Cook 
+ & SSN Number is 168549863
+This is my SSN information & they keyword is ssns & my name is Victoria Cook 
+ & SSN Number is 221 53 5448
+This is my SSN information & they keyword is ssn & my name is Diane Bell 
+ & SSN Number is 196 60 8183
+This is my SSN information & they keyword is social insurance num & my name is Louis Scott 
+ & SSN Number is 769 30 6744
+This is my SSN information & they keyword is social security num & my name is David Gonzalez 
+ & SSN Number is 802-92-7584
+This is my SSN information & they keyword is social insurance num & my name is Timothy Morgan 
+ & SSN Number is 722183085
+This is my SSN information & they keyword is social security num & my name is Jessica Williams 
+ & SSN Number is 260-68-4498
+This is my SSN information & they keyword is social numbers & my name is Diana Nelson 
+ & SSN Number is 880-94-4142
+This is my SSN information & they keyword is social insurance num & my name is Madison Lee 
+ & SSN Number is 505112799
+This is my SSN information & they keyword is social security Numbers & my name is Stephen Mitchell 
+ & SSN Number is 770 60 8976
+This is my SSN information & they keyword is social sec & my name is Kayla Brown 
+ & SSN Number is 322779968
+This is my SSN information & they keyword is ssns & my name is Robert Ramirez 
+ & SSN Number is 141-98-9811
+This is my SSN information & they keyword is social number & my name is Gary Cox 
+ & SSN Number is 494832785
+This is my SSN information & they keyword is social security nos & my name is Christian Gutierrez 
+ & SSN Number is 157 36 1609
+This is my SSN information & they keyword is social numbers & my name is Julie Nelson 
+ & SSN Number is 817 49 4055
+This is my SSN information & they keyword is social nos & my name is Ashley Harris 
+ & SSN Number is 654-24-6005
+This is my SSN information & they keyword is social security number & my name is Brittany Morris 
+ & SSN Number is 333 89 8859
+This is my SSN information & they keyword is social nos & my name is Margaret Taylor 
+ & SSN Number is 719-92-2477
+This is my SSN information & they keyword is social insurance num & my name is Patricia Edwards 
+ & SSN Number is 299-14-2665
+This is my SSN information & they keyword is social no & my name is Ronald Cook 
+ & SSN Number is 553-75-1479
+This is my SSN information & they keyword is social nos & my name is Barbara Lewis 
+ & SSN Number is 724 74 1201
+This is my SSN information & they keyword is ss# & my name is Cynthia Taylor 
+ & SSN Number is 763 84 6731
+This is my SSN information & they keyword is social nos & my name is Lauren Taylor 
+ & SSN Number is 771 36 7116
+This is my SSN information & they keyword is social nos & my name is Johnny Harris 
+ & SSN Number is 836-91-7201

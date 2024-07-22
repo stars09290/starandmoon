@@ -1,0 +1,11 @@
+The file contains dummy data for Canada SIN 
+This is my SIN information & they keyword is social security & my name is Arthur Butler 
+ & SIN Number is 599041167
+This is my SIN information & they keyword is social insurance no & my name is Jeremy Edwards 
+ & SIN Number is 750955247
+This is my SIN information & they keyword is socia insurance nos & my name is Jane Torres 
+ & SIN Number is 253348841
+This is my SIN information & they keyword is social insurance number & my name is Nathan Sullivan 
+ & SIN Number is 983044819
+This is my SIN information & they keyword is soc ins & my name is Emma Reed 
+ & SIN Number is 160692992
